@@ -2,4 +2,4 @@
 Chrome extension to add a context action to translate, and put in your clipboard, a snippet of html in jade
 
 # Download and install it here
-"publication en cours sur chrome web store"
+https://chrome.google.com/webstore/detail/copy-html-in-jade/ooimannacmnfehchhnahaaglimfjfedo?hl=fr
