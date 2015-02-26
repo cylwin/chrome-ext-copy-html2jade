@@ -2,8 +2,7 @@
   "name": "Copy html in jade",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Chrome extension to add a context action and translate and \
-  put in your clipboard a snippet of html in jade",
+  "description": "Chrome extension to add a context action and translate and put in your clipboard a snippet of html in jade",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
